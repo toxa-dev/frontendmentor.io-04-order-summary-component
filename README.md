@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://toxa-dev.github.io/frontendmentor.io-04-order-summary-component)
+- Live Site URL: [Live site](http://toxa-dev.github.io/frontendmentor.io-04-order-summary-component)
 
 ## Author
 
